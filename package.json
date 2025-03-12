@@ -1,0 +1,19 @@
+{
+  "name": "cypress-exercise",
+  "version": "1.0.0",
+  "description": "A cypress automation script to login using a provided credentials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiyin35/cypress-exercise.git"
+  },
+  "author": "fiyin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiyin35/cypress-exercise/issues"
+  },
+  "homepage": "https://github.com/fiyin35/cypress-exercise#readme"
+}
