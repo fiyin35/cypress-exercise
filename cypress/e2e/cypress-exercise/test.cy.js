@@ -17,7 +17,7 @@ const password = Cypress.env('password') //access the password from environment 
 
     it("handle new browser window", function () {
         
-        cy.visit(second_url, 
+        cy.visit(url, 
             {
               failOnStatusCode: false,
               auth: {
